@@ -1,0 +1,690 @@
+[
+  {
+    "office": "HOLLYWOOD",
+    "soonest": null
+  },
+  {
+    "office": "NEEDLES",
+    "soonest": "2015-03-24T07:00:00.000Z"
+  },
+  {
+    "office": "MOUNT SHASTA ",
+    "soonest": "2015-03-24T07:00:00.000Z"
+  },
+  {
+    "office": "ALTURAS",
+    "soonest": "2015-03-25T07:00:00.000Z"
+  },
+  {
+    "office": "YREKA",
+    "soonest": "2015-03-25T07:00:00.000Z"
+  },
+  {
+    "office": "RED BLUFF",
+    "soonest": "2015-03-25T07:00:00.000Z"
+  },
+  {
+    "office": "HANFORD",
+    "soonest": "2015-03-25T07:00:00.000Z"
+  },
+  {
+    "office": "BRAWLEY",
+    "soonest": "2015-03-25T07:00:00.000Z"
+  },
+  {
+    "office": "EL CENTRO",
+    "soonest": "2015-03-26T07:00:00.000Z"
+  },
+  {
+    "office": "SAN ANDREAS",
+    "soonest": "2015-03-26T07:00:00.000Z"
+  },
+  {
+    "office": "WEAVERVILLE",
+    "soonest": "2015-03-26T07:00:00.000Z"
+  },
+  {
+    "office": "INDIO",
+    "soonest": "2015-03-26T07:00:00.000Z"
+  },
+  {
+    "office": "FAIRFIELD",
+    "soonest": "2015-03-26T07:00:00.000Z"
+  },
+  {
+    "office": "LAKE ISABELLA",
+    "soonest": "2015-03-26T07:00:00.000Z"
+  },
+  {
+    "office": "REDDING",
+    "soonest": "2015-03-27T07:00:00.000Z"
+  },
+  {
+    "office": "SANTA MARIA",
+    "soonest": "2015-03-27T07:00:00.000Z"
+  },
+  {
+    "office": "DELANO ",
+    "soonest": "2015-03-27T07:00:00.000Z"
+  },
+  {
+    "office": "REEDLEY",
+    "soonest": "2015-03-27T07:00:00.000Z"
+  },
+  {
+    "office": "STOCKTON ",
+    "soonest": "2015-03-30T07:00:00.000Z"
+  },
+  {
+    "office": "CRESCENT CITY",
+    "soonest": "2015-03-30T07:00:00.000Z"
+  },
+  {
+    "office": "BLYTHE ",
+    "soonest": "2015-03-30T07:00:00.000Z"
+  },
+  {
+    "office": "SANTA BARBARA",
+    "soonest": "2015-03-30T07:00:00.000Z"
+  },
+  {
+    "office": "VACAVILLE",
+    "soonest": "2015-03-30T07:00:00.000Z"
+  },
+  {
+    "office": "SACRAMENTO SOUTH ",
+    "soonest": "2015-03-30T07:00:00.000Z"
+  },
+  {
+    "office": "SACRAMENTO ",
+    "soonest": "2015-04-01T07:00:00.000Z"
+  },
+  {
+    "office": "MADERA ",
+    "soonest": "2015-04-01T07:00:00.000Z"
+  },
+  {
+    "office": "QUINCY ",
+    "soonest": "2015-04-01T07:00:00.000Z"
+  },
+  {
+    "office": "VALLEJO",
+    "soonest": "2015-04-01T07:00:00.000Z"
+  },
+  {
+    "office": "VISALIA",
+    "soonest": "2015-04-01T07:00:00.000Z"
+  },
+  {
+    "office": "MARIPOSA ",
+    "soonest": "2015-04-01T07:00:00.000Z"
+  },
+  {
+    "office": "LOMPOC ",
+    "soonest": "2015-04-01T07:00:00.000Z"
+  },
+  {
+    "office": "LODI ",
+    "soonest": "2015-04-01T07:00:00.000Z"
+  },
+  {
+    "office": "ARVIN",
+    "soonest": "2015-04-01T07:00:00.000Z"
+  },
+  {
+    "office": "SAN YSIDRO ",
+    "soonest": "2015-04-01T07:00:00.000Z"
+  },
+  {
+    "office": "PALMDALE ",
+    "soonest": "2015-04-01T07:00:00.000Z"
+  },
+  {
+    "office": "SAN BERNARDINO ",
+    "soonest": "2015-04-02T07:00:00.000Z"
+  },
+  {
+    "office": "JACKSON",
+    "soonest": "2015-04-02T07:00:00.000Z"
+  },
+  {
+    "office": "MERCED ",
+    "soonest": "2015-04-02T07:00:00.000Z"
+  },
+  {
+    "office": "YUBA CITY",
+    "soonest": "2015-04-02T07:00:00.000Z"
+  },
+  {
+    "office": "CARMICHAEL ",
+    "soonest": "2015-04-02T07:00:00.000Z"
+  },
+  {
+    "office": "TWENTYNINE PALMS ",
+    "soonest": "2015-04-02T07:00:00.000Z"
+  },
+  {
+    "office": "BANNING",
+    "soonest": "2015-04-02T07:00:00.000Z"
+  },
+  {
+    "office": "FRESNO NORTH ",
+    "soonest": "2015-04-02T07:00:00.000Z"
+  },
+  {
+    "office": "ROCKLIN",
+    "soonest": "2015-04-02T07:00:00.000Z"
+  },
+  {
+    "office": "PLACERVILLE",
+    "soonest": "2015-04-03T07:00:00.000Z"
+  },
+  {
+    "office": "SONORA ",
+    "soonest": "2015-04-03T07:00:00.000Z"
+  },
+  {
+    "office": "WILLOWS",
+    "soonest": "2015-04-03T07:00:00.000Z"
+  },
+  {
+    "office": "CLOVIS ",
+    "soonest": "2015-04-03T07:00:00.000Z"
+  },
+  {
+    "office": "TULARE ",
+    "soonest": "2015-04-03T07:00:00.000Z"
+  },
+  {
+    "office": "CHULA VISTA",
+    "soonest": "2015-04-03T07:00:00.000Z"
+  },
+  {
+    "office": "LINCOLN PARK ",
+    "soonest": "2015-04-03T07:00:00.000Z"
+  },
+  {
+    "office": "HEMET",
+    "soonest": "2015-04-03T07:00:00.000Z"
+  },
+  {
+    "office": "TURLOCK",
+    "soonest": "2015-04-03T07:00:00.000Z"
+  },
+  {
+    "office": "LOS BANOS",
+    "soonest": "2015-04-03T07:00:00.000Z"
+  },
+  {
+    "office": "HOLLYWOOD/VINE ",
+    "soonest": "2015-04-03T07:00:00.000Z"
+  },
+  {
+    "office": "FONTANA",
+    "soonest": "2015-04-03T07:00:00.000Z"
+  },
+  {
+    "office": "MANTECA",
+    "soonest": "2015-04-03T07:00:00.000Z"
+  },
+  {
+    "office": "BAKERSFIELD",
+    "soonest": "2015-04-06T07:00:00.000Z"
+  },
+  {
+    "office": "SOUTH LAKE TAHOE ",
+    "soonest": "2015-04-06T07:00:00.000Z"
+  },
+  {
+    "office": "GRASS VALLEY ",
+    "soonest": "2015-04-06T07:00:00.000Z"
+  },
+  {
+    "office": "PORTERVILLE",
+    "soonest": "2015-04-06T07:00:00.000Z"
+  },
+  {
+    "office": "PASO ROBLES",
+    "soonest": "2015-04-06T07:00:00.000Z"
+  },
+  {
+    "office": "DAVIS",
+    "soonest": "2015-04-06T07:00:00.000Z"
+  },
+  {
+    "office": "COALINGA ",
+    "soonest": "2015-04-06T07:00:00.000Z"
+  },
+  {
+    "office": "TRACY",
+    "soonest": "2015-04-06T07:00:00.000Z"
+  },
+  {
+    "office": "GOLETA ",
+    "soonest": "2015-04-06T07:00:00.000Z"
+  },
+  {
+    "office": "FRESNO ",
+    "soonest": "2015-04-07T07:00:00.000Z"
+  },
+  {
+    "office": "CONCORD",
+    "soonest": "2015-04-07T07:00:00.000Z"
+  },
+  {
+    "office": "CORTE MADERA ",
+    "soonest": "2015-04-07T07:00:00.000Z"
+  },
+  {
+    "office": "SAN LUIS OBISPO",
+    "soonest": "2015-04-07T07:00:00.000Z"
+  },
+  {
+    "office": "MODESTO",
+    "soonest": "2015-04-07T07:00:00.000Z"
+  },
+  {
+    "office": "WOODLAND ",
+    "soonest": "2015-04-07T07:00:00.000Z"
+  },
+  {
+    "office": "COLUSA ",
+    "soonest": "2015-04-07T07:00:00.000Z"
+  },
+  {
+    "office": "TAFT ",
+    "soonest": "2015-04-07T07:00:00.000Z"
+  },
+  {
+    "office": "PITTSBURG",
+    "soonest": "2015-04-07T07:00:00.000Z"
+  },
+  {
+    "office": "OCEANSIDE",
+    "soonest": "2015-04-07T07:00:00.000Z"
+  },
+  {
+    "office": "GILROY ",
+    "soonest": "2015-04-07T07:00:00.000Z"
+  },
+  {
+    "office": "SANTA PAULA",
+    "soonest": "2015-04-07T07:00:00.000Z"
+  },
+  {
+    "office": "OXNARD ",
+    "soonest": "2015-04-07T07:00:00.000Z"
+  },
+  {
+    "office": "FALL RIVER MILLS ",
+    "soonest": "2015-04-07T07:00:00.000Z"
+  },
+  {
+    "office": "FOLSOM ",
+    "soonest": "2015-04-07T07:00:00.000Z"
+  },
+  {
+    "office": "RIVERSIDE EAST ",
+    "soonest": "2015-04-07T07:00:00.000Z"
+  },
+  {
+    "office": "PALM SPRINGS ",
+    "soonest": "2015-04-07T07:00:00.000Z"
+  },
+  {
+    "office": "SHAFTER",
+    "soonest": "2015-04-07T07:00:00.000Z"
+  },
+  {
+    "office": "TEMECULA ",
+    "soonest": "2015-04-07T07:00:00.000Z"
+  },
+  {
+    "office": "GLENDALE ",
+    "soonest": "2015-04-08T07:00:00.000Z"
+  },
+  {
+    "office": "TRUCKEE",
+    "soonest": "2015-04-08T07:00:00.000Z"
+  },
+  {
+    "office": "EUREKA ",
+    "soonest": "2015-04-08T07:00:00.000Z"
+  },
+  {
+    "office": "ROSEVILLE",
+    "soonest": "2015-04-08T07:00:00.000Z"
+  },
+  {
+    "office": "RIVERSIDE",
+    "soonest": "2015-04-08T07:00:00.000Z"
+  },
+  {
+    "office": "BISHOP ",
+    "soonest": "2015-04-08T07:00:00.000Z"
+  },
+  {
+    "office": "SANTA TERESA ",
+    "soonest": "2015-04-08T07:00:00.000Z"
+  },
+  {
+    "office": "SAN DIEGO",
+    "soonest": "2015-04-09T07:00:00.000Z"
+  },
+  {
+    "office": "PASADENA ",
+    "soonest": "2015-04-09T07:00:00.000Z"
+  },
+  {
+    "office": "SAN JOSE ",
+    "soonest": "2015-04-09T07:00:00.000Z"
+  },
+  {
+    "office": "UKIAH",
+    "soonest": "2015-04-09T07:00:00.000Z"
+  },
+  {
+    "office": "NAPA ",
+    "soonest": "2015-04-09T07:00:00.000Z"
+  },
+  {
+    "office": "ARLETA ",
+    "soonest": "2015-04-09T07:00:00.000Z"
+  },
+  {
+    "office": "LANCASTER",
+    "soonest": "2015-04-09T07:00:00.000Z"
+  },
+  {
+    "office": "GARBERVILLE",
+    "soonest": "2015-04-09T07:00:00.000Z"
+  },
+  {
+    "office": "EL CAJON ",
+    "soonest": "2015-04-09T07:00:00.000Z"
+  },
+  {
+    "office": "BAKERSFIELD SW ",
+    "soonest": "2015-04-09T07:00:00.000Z"
+  },
+  {
+    "office": "SIMI VALLEY",
+    "soonest": "2015-04-09T07:00:00.000Z"
+  },
+  {
+    "office": "NOVATO ",
+    "soonest": "2015-04-09T07:00:00.000Z"
+  },
+  {
+    "office": "LOS ANGELES",
+    "soonest": "2015-04-10T07:00:00.000Z"
+  },
+  {
+    "office": "SAN DIEGO CLAIREMONT ",
+    "soonest": "2015-04-10T07:00:00.000Z"
+  },
+  {
+    "office": "OROVILLE ",
+    "soonest": "2015-04-10T07:00:00.000Z"
+  },
+  {
+    "office": "WATSONVILLE",
+    "soonest": "2015-04-10T07:00:00.000Z"
+  },
+  {
+    "office": "DALY CITY",
+    "soonest": "2015-04-10T07:00:00.000Z"
+  },
+  {
+    "office": "SANTA CLARA",
+    "soonest": "2015-04-10T07:00:00.000Z"
+  },
+  {
+    "office": "SAN CLEMENTE ",
+    "soonest": "2015-04-10T07:00:00.000Z"
+  },
+  {
+    "office": "NEWHALL",
+    "soonest": "2015-04-10T07:00:00.000Z"
+  },
+  {
+    "office": "CHICO",
+    "soonest": "2015-04-13T07:00:00.000Z"
+  },
+  {
+    "office": "SANTA ANA",
+    "soonest": "2015-04-13T07:00:00.000Z"
+  },
+  {
+    "office": "EL CERRITO ",
+    "soonest": "2015-04-13T07:00:00.000Z"
+  },
+  {
+    "office": "WHITTIER ",
+    "soonest": "2015-04-13T07:00:00.000Z"
+  },
+  {
+    "office": "PARADISE ",
+    "soonest": "2015-04-13T07:00:00.000Z"
+  },
+  {
+    "office": "SANTA MONICA ",
+    "soonest": "2015-04-13T07:00:00.000Z"
+  },
+  {
+    "office": "WALNUT CREEK ",
+    "soonest": "2015-04-13T07:00:00.000Z"
+  },
+  {
+    "office": "REDLANDS ",
+    "soonest": "2015-04-13T07:00:00.000Z"
+  },
+  {
+    "office": "PLEASANTON ",
+    "soonest": "2015-04-13T07:00:00.000Z"
+  },
+  {
+    "office": "LOS GATOS",
+    "soonest": "2015-04-13T07:00:00.000Z"
+  },
+  {
+    "office": "THOUSAND OAKS",
+    "soonest": "2015-04-13T07:00:00.000Z"
+  },
+  {
+    "office": "SANTA ROSA ",
+    "soonest": "2015-04-14T07:00:00.000Z"
+  },
+  {
+    "office": "HAYWARD",
+    "soonest": "2015-04-14T07:00:00.000Z"
+  },
+  {
+    "office": "LAGUNA HILLS ",
+    "soonest": "2015-04-14T07:00:00.000Z"
+  },
+  {
+    "office": "FULLERTON",
+    "soonest": "2015-04-14T07:00:00.000Z"
+  },
+  {
+    "office": "VICTORVILLE",
+    "soonest": "2015-04-14T07:00:00.000Z"
+  },
+  {
+    "office": "MONTEBELLO ",
+    "soonest": "2015-04-15T07:00:00.000Z"
+  },
+  {
+    "office": "CULVER CITY",
+    "soonest": "2015-04-15T07:00:00.000Z"
+  },
+  {
+    "office": "VAN NUYS ",
+    "soonest": "2015-04-15T07:00:00.000Z"
+  },
+  {
+    "office": "RIDGECREST ",
+    "soonest": "2015-04-15T07:00:00.000Z"
+  },
+  {
+    "office": "NORCO",
+    "soonest": "2015-04-15T07:00:00.000Z"
+  },
+  {
+    "office": "KING CITY",
+    "soonest": "2015-04-15T07:00:00.000Z"
+  },
+  {
+    "office": "SAN FRANCISCO",
+    "soonest": "2015-04-16T07:00:00.000Z"
+  },
+  {
+    "office": "BARSTOW",
+    "soonest": "2015-04-16T07:00:00.000Z"
+  },
+  {
+    "office": "INGLEWOOD",
+    "soonest": "2015-04-16T07:00:00.000Z"
+  },
+  {
+    "office": "WESTMINSTER",
+    "soonest": "2015-04-16T07:00:00.000Z"
+  },
+  {
+    "office": "WINNETKA ",
+    "soonest": "2015-04-16T07:00:00.000Z"
+  },
+  {
+    "office": "FREMONT",
+    "soonest": "2015-04-16T07:00:00.000Z"
+  },
+  {
+    "office": "REDWOOD CITY ",
+    "soonest": "2015-04-17T07:00:00.000Z"
+  },
+  {
+    "office": "FORT BRAGG ",
+    "soonest": "2015-04-17T07:00:00.000Z"
+  },
+  {
+    "office": "OAKLAND COLISEUM ",
+    "soonest": "2015-04-17T07:00:00.000Z"
+  },
+  {
+    "office": "RANCHO CUCAMONGA ",
+    "soonest": "2015-04-17T07:00:00.000Z"
+  },
+  {
+    "office": "WEST COVINA",
+    "soonest": "2015-04-17T07:00:00.000Z"
+  },
+  {
+    "office": "SAN PEDRO",
+    "soonest": "2015-04-17T07:00:00.000Z"
+  },
+  {
+    "office": "PETALUMA ",
+    "soonest": "2015-04-17T07:00:00.000Z"
+  },
+  {
+    "office": "HOLLISTER",
+    "soonest": "2015-04-20T07:00:00.000Z"
+  },
+  {
+    "office": "TULELAKE ",
+    "soonest": "2015-04-20T07:00:00.000Z"
+  },
+  {
+    "office": "VENTURA",
+    "soonest": "2015-04-20T07:00:00.000Z"
+  },
+  {
+    "office": "BELLFLOWER ",
+    "soonest": "2015-04-20T07:00:00.000Z"
+  },
+  {
+    "office": "POWAY",
+    "soonest": "2015-04-20T07:00:00.000Z"
+  },
+  {
+    "office": "OAKLAND CLAREMONT",
+    "soonest": "2015-04-22T07:00:00.000Z"
+  },
+  {
+    "office": "BELL GARDENS ",
+    "soonest": "2015-04-22T07:00:00.000Z"
+  },
+  {
+    "office": "COSTA MESA ",
+    "soonest": "2015-04-23T07:00:00.000Z"
+  },
+  {
+    "office": "POMONA ",
+    "soonest": "2015-04-24T07:00:00.000Z"
+  },
+  {
+    "office": "CAPITOLA ",
+    "soonest": "2015-04-24T07:00:00.000Z"
+  },
+  {
+    "office": "LAKEPORT ",
+    "soonest": "2015-04-27T07:00:00.000Z"
+  },
+  {
+    "office": "LONG BEACH ",
+    "soonest": "2015-05-01T07:00:00.000Z"
+  },
+  {
+    "office": "SALINAS",
+    "soonest": "2015-05-01T07:00:00.000Z"
+  },
+  {
+    "office": "SAN MARCOS ",
+    "soonest": "2015-05-01T07:00:00.000Z"
+  },
+  {
+    "office": "TORRANCE ",
+    "soonest": "2015-05-05T07:00:00.000Z"
+  },
+  {
+    "office": "COMPTON",
+    "soonest": "2015-05-08T07:00:00.000Z"
+  },
+  {
+    "office": "SUSANVILLE ",
+    "soonest": "2015-05-12T07:00:00.000Z"
+  },
+  {
+    "office": "SEASIDE",
+    "soonest": "2015-06-16T07:00:00.000Z"
+  },
+  {
+    "office": "SAN MATEO",
+    "soonest": null
+  },
+  {
+    "office": "SAN JOSE DLPC",
+    "soonest": null
+  },
+  {
+    "office": "HAWTHORNE",
+    "soonest": "2015-05-06T07:00:00.000Z"
+  },
+  {
+    "office": "LOMPOC DLPC",
+    "soonest": null
+  },
+  {
+    "office": "LOS ANGELES DLPC",
+    "soonest": null
+  },
+  {
+    "office": "STANTON DLPC ",
+    "soonest": null
+  },
+  {
+    "office": "AUBURN",
+    "soonest": null
+  }
+]
