@@ -76,8 +76,12 @@ function parseResult(body){
   var text;
 	var result;
 	try{
-				text= $('#app_content p.alert').text().split(':')[1].split('at')[0];
-	      result = new Date(res);
+			var timeParts = $('#app_content p.alert').text().split(':')[1].split('at');
+			var date = '' + timeParts[0] + ' ';
+			var time = parseInt(timeParts[1]);
+			date += time > 6 ? time : time + 12;
+			date += ':00:00';
+	    result = new Date(date);
 	} catch (e) {
 		result = text;	
 	}
